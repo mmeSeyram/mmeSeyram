@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mmemémé
-- 👀 I’m interested in reading , programmation 
-- 🌱 I’m currently learning watever i can
+Hi, I’m Seyram
 - 📫 How to reach me togloessi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
